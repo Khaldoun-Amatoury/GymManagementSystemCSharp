@@ -1,0 +1,31 @@
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\OOD Project - GMS.exe
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\OOD Project - GMS.deps.json
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\OOD Project - GMS.runtimeconfig.json
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\OOD Project - GMS.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\OOD Project - GMS.pdb
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.Form1.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.Properties.Resources.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.csproj.GenerateResource.cache
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.AssemblyInfoInputs.cache
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.AssemblyInfo.cs
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.csproj.CoreCompileInputs.cache
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\refint\OOD Project - GMS.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.pdb
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.genruntimeconfig.cache
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\ref\OOD Project - GMS.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.NewMember.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.csproj.AssemblyReference.cache
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD Project - GMS.csproj.CopyComplete
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.NewStaff.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.Equipment.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.ViewEquipment.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.SearchMember.resources
+C:\Users\Khaldoun\Desktop\Khaldoun\NDU\CSC 323 - OBJECT ORIENTED DESIGN\OOD Project - GMS\OOD Project - GMS\obj\Debug\net6.0-windows\OOD_Project___GMS.DeleteMember.resources
